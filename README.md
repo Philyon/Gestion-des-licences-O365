@@ -8,7 +8,7 @@ S'assurer que toutes les licences en cours sont bien utilisées par les collabor
 ### Pré-requis
 
 - Avoir accès à la gestion des licences.
-- Pouvoir vérifier auprès des collaborateurs et des responsables les attributions de licences pour qu'à un instant "t" la répartition des licences existantes soit optimale.
+- Pouvoir vérifier auprès des responsables les attributions de licences pour qu'à un instant "t" la répartition des licences existantes soit optimale.
 
 
 ## Auteurs
